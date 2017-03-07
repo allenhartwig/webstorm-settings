@@ -1,0 +1,29 @@
+<application>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="6.9.1" last-modified="1478716874000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.3.0/bin/node">
+      <version-cache version="4.3.0" last-modified="1455023904000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/io.js/v2.5.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/v0.10.36/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/0.10.30/bin/node" />
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v4.3.0/bin/node" version="4.3.0" last-modified="1455023904000" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+</application>
