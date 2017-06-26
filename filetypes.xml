@@ -19,6 +19,7 @@
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="cfml" type="Cold Fusion" />
       <mapping ext="fnc" type="DBN-PSQL" />
