@@ -5,13 +5,13 @@
       <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping ext="cf" type="JavaScript" />
       <mapping ext="cfc" type="JavaScript" />
-      <mapping pattern="root" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern=".env-marketing" type="PLAIN_TEXT" />
       <mapping pattern="git-key" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="fdas" type="PLAIN_TEXT" />
       <mapping pattern="time" type="PLAIN_TEXT" />
+      <mapping pattern="root" type="PLAIN_TEXT" />
       <mapping pattern=".lintrc" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-GCP" type="PLAIN_TEXT" />
       <mapping pattern="privatekey" type="PLAIN_TEXT" />
@@ -19,8 +19,8 @@
       <mapping pattern=".env-wp" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
-      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="repo" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
