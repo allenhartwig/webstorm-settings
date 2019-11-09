@@ -2,11 +2,13 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="cf" type="JavaScript" />
       <mapping ext="cfc" type="JavaScript" />
       <mapping pattern=".env-marketing" type="PLAIN_TEXT" />
+      <mapping pattern="git-key" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="fdas" type="PLAIN_TEXT" />
@@ -14,9 +16,8 @@
       <mapping pattern="root" type="PLAIN_TEXT" />
       <mapping pattern=".lintrc" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-GCP" type="PLAIN_TEXT" />
-      <mapping pattern="fdsa" type="PLAIN_TEXT" />
       <mapping pattern="privatekey" type="PLAIN_TEXT" />
-      <mapping pattern="git-key" type="PLAIN_TEXT" />
+      <mapping pattern="fdsa" type="PLAIN_TEXT" />
       <mapping pattern=".env-wp" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
